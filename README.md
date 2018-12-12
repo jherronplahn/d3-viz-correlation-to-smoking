@@ -1,5 +1,5 @@
 # d3-viz-correlation-to-smoking
-d3-viz-correlation-to-smoking
+https://jherronplahn.github.io/d3-viz-correlation-to-smoking/
 
 ![alt](smoking01.png)
 ![alt](smoking02.png)
